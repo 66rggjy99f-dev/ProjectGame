@@ -1,0 +1,22 @@
+[2026-06-09 17:13:45] === Game session started ===
+[2026-06-09 17:13:59] New game started. Player: gdh
+[2026-06-09 17:14:15] Dialog with Старый Том completed.
+[2026-06-09 17:14:15] Item received: Зелье Тома
+[2026-06-09 17:14:19] Location 2 unlocked.
+[2026-06-09 17:14:19] Player entered loc 2
+[2026-06-09 17:14:27] Item picked up: Ключ от Библиотеки
+[2026-06-09 17:14:27] Item picked up: Ржавый меч
+[2026-06-09 17:14:29] Location 3 opened with key.
+[2026-06-09 17:14:29] Player entered loc 3
+[2026-06-09 17:14:35] Item picked up: Древний Манускрипт
+[2026-06-09 17:14:35] Item picked up: Клинок теней
+[2026-06-09 17:14:42] Item picked up: Большое зелье лечения
+[2026-06-09 17:14:42] Item picked up: Малое зелье лечения
+[2026-06-09 17:14:44] Manuscript exchanged for key to loc4.
+[2026-06-09 17:14:45] Location 4 opened with key.
+[2026-06-09 17:14:45] Player entered loc 4
+[2026-06-09 17:14:49] Player entered loc 5
+[2026-06-09 17:14:49] VICTORY!
+[2026-06-09 17:14:49] === Game session ended ===
+[2026-06-09 17:17:49] === Game session started ===
+[2026-06-09 17:17:51] === Game session ended ===
